@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ededin tek ve ya cut oldughunu tapan alqoritm/1.0.0": {
+        "runtime": {
+          "Ededin tek ve ya cut oldughunu tapan alqoritm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ededin tek ve ya cut oldughunu tapan alqoritm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

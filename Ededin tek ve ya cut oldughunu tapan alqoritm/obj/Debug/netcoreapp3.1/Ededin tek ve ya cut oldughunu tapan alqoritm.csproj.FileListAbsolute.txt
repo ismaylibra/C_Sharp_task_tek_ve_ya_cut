@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\bin\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.exe
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\bin\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.deps.json
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\bin\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.runtimeconfig.json
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\bin\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\bin\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.dll
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\bin\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.pdb
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\obj\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\obj\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\obj\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\obj\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\obj\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\obj\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.dll
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\obj\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.pdb
+C:\Users\ASUS\source\repos\Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm\obj\Debug\netcoreapp3.1\Ededin tek ve ya cut oldughunu tapan alqoritm.genruntimeconfig.cache

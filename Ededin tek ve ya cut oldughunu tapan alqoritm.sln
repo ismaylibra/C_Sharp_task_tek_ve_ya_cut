@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ededin tek ve ya cut oldughunu tapan alqoritm", "Ededin tek ve ya cut oldughunu tapan alqoritm\Ededin tek ve ya cut oldughunu tapan alqoritm.csproj", "{D32FFA60-5922-453B-98B2-EB74A996DF4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D32FFA60-5922-453B-98B2-EB74A996DF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32FFA60-5922-453B-98B2-EB74A996DF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32FFA60-5922-453B-98B2-EB74A996DF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32FFA60-5922-453B-98B2-EB74A996DF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {743F7B2A-E691-49CC-9AF0-4F05F871454A}
+	EndGlobalSection
+EndGlobal
